@@ -1,0 +1,31 @@
+Interaction with Github
+
+Start a project on Github
+Fill in the repository name
+Turn on 'Initialize this with a README'
+
+
+On the terminal access the correct folder
+
+--> git clone "copy-paste de link vanuit Github - button Clone or Download"
+
+Compare the status of the local version and Github version
+
+--> git status
+
+Adding files to Github
+
+--> git add file.html OR
+--> git add . (for adding all the files)
+
+Commit the files and add a comment
+
+--> git commit -m "put your message here"
+
+Push the files to Github
+
+--> git push
+
+Pull the latest version of the files from the project from Github
+
+--> git pull
