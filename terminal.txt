@@ -29,3 +29,10 @@ Push the files to Github
 Pull the latest version of the files from the project from Github
 
 --> git pull
+
+Open another branch
+
+--> git branch (gives an overview of all the branches)
+--> git branch test123 (creates a new branch named test123)
+--> git checkout test123 (switches to the new branch test123)
+
