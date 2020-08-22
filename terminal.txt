@@ -36,3 +36,7 @@ Open another branch
 --> git branch test123 (creates a new branch named test123)
 --> git checkout test123 (switches to the new branch test123)
 
+the last 2 commands can be combined into 1 command using
+
+--> git checkout -b test123
+
